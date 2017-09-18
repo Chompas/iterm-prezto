@@ -1,4 +1,4 @@
-## My configuration of PREZTO iTerm + ZSH
+## My configuration of iTerm with ZSH + Prezto
 
 After a long time restoring backups from previous laptops I decided to go with a fresh install which made me look for a lot of things I had already configured to my needs so I decided to write this as a cheatsheet/reminder for myself but also share it here for anyone to use it.
 
