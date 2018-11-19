@@ -7,6 +7,9 @@ This is a step by step guide on how to install iTerm, PREZTO and my current conf
 ### Install iTerm and zsh
 Install iTerm using [Homebrew](https://brew.sh/) 
 > $ brew cask install iterm2 
+
+Go to Preferences > Profiles > General. Under Command, select “Command” (rather than “Login Shell”) and enter `/bin/zsh --login`
+
 Install `zsh` and `zsh-completions` using [Homebrew](https://brew.sh/) 
 > $ brew install zsh zsh-completions
 
