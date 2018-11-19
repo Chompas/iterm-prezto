@@ -8,10 +8,10 @@ This is a step by step guide on how to install iTerm, PREZTO and my current conf
 Install iTerm using [Homebrew](https://brew.sh/) 
 > $ brew cask install iterm2 
 
-Go to Preferences > Profiles > General. Under Command, select “Command” (rather than “Login Shell”) and enter `/bin/zsh --login`
-
 Install `zsh` and `zsh-completions` using [Homebrew](https://brew.sh/) 
 > $ brew install zsh zsh-completions
+
+Go to iTerm > Preferences > Profiles > General. Under Command, select “Command” (rather than “Login Shell”) and enter `/bin/zsh --login`
 
 As a visual thing I always like to change the theme to Solarized Dark which you can do from the Preferences menu under Profiles > Color
 
