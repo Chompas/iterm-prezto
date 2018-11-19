@@ -4,7 +4,9 @@ After a long time restoring backups from previous laptops I decided to go with a
 
 This is a step by step guide on how to install iTerm, PREZTO and my current config of them.
 
-### Install zsh
+### Install iTerm and zsh
+Install iTerm using [Homebrew](https://brew.sh/) 
+> $ brew cask install iterm2 
 Install `zsh` and `zsh-completions` using [Homebrew](https://brew.sh/) 
 > $ brew install zsh zsh-completions
 
